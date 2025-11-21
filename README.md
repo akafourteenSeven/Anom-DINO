@@ -129,7 +129,5 @@ The train set for this framework is provided by S2M.
 ```
 More visual results for SMIYC are below:
 
-![image](https://github.com/user-attachments/assets/e7909315-ec53-40c7-bb85-abf888452be6)
 
-![image](https://github.com/user-attachments/assets/d92739b7-02cb-42eb-b3c6-0ec57841dda4)
 
